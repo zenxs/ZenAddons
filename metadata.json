@@ -1,0 +1,8 @@
+{
+  "name": "ZenAddons",
+  "creator": "Zen_Xs",
+  "description": "QOL Features for Skyblock",
+  "version": "0.0.1",
+  "entry": "index.js",
+  "requires": ["Vigilance"]
+}
