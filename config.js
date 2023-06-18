@@ -32,6 +32,14 @@ class Settings {
   })
   customFov = 110;
 
+  @SwitchProperty({
+    name: "Adventure Mode Notifier",
+    description: "Alerts when you are getting admin checked",
+    category: "Misc",
+    subcategory: ""
+  })
+  adminCheckNotifier = false;
+
   constructor() {
     this.initialize(this);
   }
