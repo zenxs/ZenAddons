@@ -7,3 +7,6 @@ The command to open settings is /za
 ## Features
 ### Misc
 **Custom FOV:** Allows you to set custom FOV, goes beyond Quake Pro!
+
+![image](https://github.com/zenxs/ZenAddons/assets/45582571/97a4a205-07ed-4ba3-b7b1-a7842ef676f3)
+
