@@ -4,6 +4,8 @@
 Hypixel QOL Mod written in Chattriggers
 The command to open settings is /za
 
+Download: https://www.chattriggers.com/modules/v/zenaddons
+
 ## Features
 ### Misc
 **Custom FOV:** Allows you to set custom FOV, goes beyond Quake Pro!
